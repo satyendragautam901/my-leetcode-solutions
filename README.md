@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1179-game-play-analysis-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1179-game-play-analysis-i) |
 ## Math
 |  |
 | ------- |
