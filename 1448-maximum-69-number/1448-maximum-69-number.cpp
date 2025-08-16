@@ -1,14 +1,17 @@
 class Solution {
 public:
     int maximum69Number (int num) {
-        string s = to_string(num);
-        for (char &c : s) {
-            if (c == '6') {
-                c = '9';
-                break; // only flip the first 6
+        int ans = num;
+        string original = to_string(num);
+
+        for(int i = 0; i<original.size(); i++){
+            if(original[i] == '6'){
+                original[i] = '9';
+                int temp = stoi(original);
+                ans = max(ans, temp);
+                original[i] = '6';
             }
         }
-        return stoi(s);
-
+        return ans;
     }
 };
