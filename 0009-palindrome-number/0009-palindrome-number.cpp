@@ -1,18 +1,17 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        string str = to_string(x);
-        // if(str.size() == 1){
-        //     return false;
-        // }
-        string dup = "";
+        if(x<0){
+            return false;
+        }
+        int original = x;
+        long long ans = 0;
 
-        int start = 0;
-        int end = str.size()-1;
-        for(int i = end; i>=0; i--){
-            dup+=str[i];
+        while(x!=0){
+            ans = ans * 10 + x % 10;
+            x = x/10;
         }
 
-        return str==dup;
+        return original == ans;
     }
 };
