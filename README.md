@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Matrix
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
