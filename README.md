@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0342-power-of-four) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3830-find-closest-person](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3830-find-closest-person) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0739-daily-temperatures](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0777-toeplitz-matrix) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Matrix
