@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0242-valid-anagram) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [2887-sort-vowels-in-a-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
