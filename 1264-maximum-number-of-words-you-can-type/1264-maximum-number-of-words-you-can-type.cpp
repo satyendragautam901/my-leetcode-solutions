@@ -19,7 +19,7 @@ public:
             // check har character of word
             for (int k = 0; k < str[i].size(); k++) {
                 for (int j = 0; j < brokenLetters.size(); j++) {
-                    if (str[i][k] == brokenLetters[j]) {
+                    if (str[i][k] == brokenLetters[j]) { // i-th string ke k-th character.
                         valid = false; // agar broken letter mila, word invalid
                         break;
                     }
