@@ -10,61 +10,53 @@
  */
 class Solution {
 public:
-    void rotate(vector<int>& ar, int k) {
-        int n = ar.size();
-        k = k % n;
-
-        while (k>0)
-        {
-            int temp = ar[n - 1];
-
-            for (int i = n - 1; i > 0; i--)
-            {
-                ar[i] = ar[i - 1];
-            }
-            ar[0] = temp;
-
-            k--;
-        }
-
-    }
-
+    
     ListNode* rotateRight(ListNode* head, int k) {
-        if (!head) return nullptr;
+        // if (!head) return nullptr;
+        // if(head->next==nullptr) return head;
+        // if(k==0) return head;
 
+        if(!head || head->next == nullptr || k == 0){
+            return head; // endge case
+        }
+        
         ListNode *temp = head;
-        vector<int>ar;
-
-        while(temp){ // first push the value to array
-            ar.push_back(temp->val);
+        int cnt = 0;
+        // step1: first count the nodes
+        while(temp){
+            cnt++;
             temp = temp->next;
         }
-        for(auto a: ar){
-            cout<<a<<" ";
-        }
-        k = k % ar.size();
-        rotate(ar, k); // reverse array by k position
-        // create a list and return;
-        cout<<endl;
-        for(auto a: ar){
-            cout<<a<<" ";
-        }
+        // now adjust k 
+        k = k % cnt;
+        if (k == 0) return head; // agar k list ke length ka multiple ho
 
-        ListNode *ptr = nullptr; // points to newly formed list
-        ListNode *curr = nullptr;
+        // step2: go to at that location
+        int stepsToGo = cnt-k;
+        temp = head;
 
-        for(int i =0; i<ar.size(); i++){
-            ListNode *temppp = new ListNode(ar[i]); // new node created with the value
-            if(ptr == nullptr){
-                ptr = temppp;
-                curr = temppp;
-            }
-            else{
-                curr->next = temppp;
-                curr = curr->next;
-            }
+        for(int i = 0; i<stepsToGo-1; i++){ // -1 bcz tail reach to next one
+            temp = temp->next; 
         }
+        // tilll here temp will points to at that location from where it needs to break;
+        
+        // create another node that go till end
+        ListNode *newTemp = temp;
+        
+        // step3: now move to newtemp till it reach to ends
+        while(newTemp->next != nullptr){
+            newTemp = newTemp->next;
+        }
+        cout<<temp->val<<endl;
+        cout<<newTemp->val;
 
-        return ptr;
+        // step 4: break from temp and points newtemp to head;
+        ListNode *newHead = temp->next;
+        temp->next = nullptr;
+
+        newTemp->next = head;
+
+
+        return newHead;
     }
 };
