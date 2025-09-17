@@ -11,17 +11,17 @@ public:
     bool hasCycle(ListNode *head) {
     if (!head || !head->next) return false;
     
-    set<ListNode *>visited;// create unique node
+    // using slow and fast pointer
+    ListNode *slow = head;
+    ListNode *fast = head->next;
 
+    while (fast != nullptr && fast->next != nullptr) {
+        slow = slow->next;         // 1 step
+        fast = fast->next->next;   // 2 steps
 
-    while(head){
-        // agar head pehle se aaya hai to return true: means cycle present
-        if(visited.count(head)){// here find can't be used . bcz find used for only integer
+        if (slow == fast) {        // cycle detected
             return true;
         }
-        visited.insert(head); // nhi to head ko insert kr do
-
-        head=head->next;
     }
      
      return false; 
