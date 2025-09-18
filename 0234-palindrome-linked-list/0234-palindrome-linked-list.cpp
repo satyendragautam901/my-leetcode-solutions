@@ -21,15 +21,7 @@ public:
             curr = fut;
             fut = fut->next;
         }
-        curr->next = prev;
-        
-        ListNode *head = curr;
-
-        while(head){
-            cout<<head->val<<" ";
-            head = head->next;
-        }
-
+        curr->next = prev;     
         return curr;
     }
 
