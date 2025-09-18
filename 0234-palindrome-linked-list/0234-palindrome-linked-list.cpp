@@ -10,40 +10,70 @@
  */
 class Solution {
 public:
-    bool pal(vector<int>&ar){
-        int n = ar.size()-1;
-        int i = 0;
-        while(i<n){
-            if(ar[i] != ar[n]){
-                return false;
-            }
-            i++, n--;
+
+    ListNode *reversss(ListNode* temp){
+        // here only the list which are greater than 2nodes
+        ListNode *curr = temp, *prev = nullptr, *fut = temp->next;
+
+        while(fut){
+            curr->next = prev;
+            prev = curr;
+            curr = fut;
+            fut = fut->next;
         }
-        return true;
+        curr->next = prev;
+        
+        ListNode *head = curr;
+
+        while(head){
+            cout<<head->val<<" ";
+            head = head->next;
+        }
+
+        return curr;
     }
 
     bool isPalindrome(ListNode* head) {
-        if(!head){ // edge case
+        if(!head){ // edge case , if empty
             return false;
         }
-        if(head->next == nullptr){
+        if(head->next == nullptr){ // if single node
             return true;
         }
-
-        // create an vector to store val
-        vector<int> value;
-
-        ListNode *temp = head;
-        while(temp){
-            value.push_back(temp->val);
-            temp = temp->next;
-        } // now temp will be on last node
-        for(auto a: value){
-            cout<<a<<" ";
+        // if two nodes
+        if(head->next->next == nullptr){
+            if(head->val == head->next->val){
+                return true;
+            }
+            else{
+                return false;
+            }
         }
 
-        // call the function 
-        return pal(value);
+        // Step 1: find middle
+        ListNode *slow = head, *fast = head;
+        while(fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        // Step 2: reverse second half
+        ListNode* secondHalf = reversss(slow);
+
+        // Step 3: compare
+        ListNode* firstHalf = head;
+        ListNode* temp = secondHalf;
+        while(temp) {
+            if(firstHalf->val != temp->val) {
+                return false;
+            }
+            firstHalf = firstHalf->next;
+            temp = temp->next;
+        }
+        
+
+
+        return true;
         
     }
 };
