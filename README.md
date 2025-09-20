@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1179-game-play-analysis-i) |
 | [1452-restaurant-growth](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1452-restaurant-growth) |
+| [1480-movie-rating](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1480-movie-rating) |
 ## Math
 |  |
 | ------- |
