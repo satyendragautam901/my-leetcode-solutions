@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0838-design-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Breadth-First Search
 |  |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
