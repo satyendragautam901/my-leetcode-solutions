@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Matrix
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
