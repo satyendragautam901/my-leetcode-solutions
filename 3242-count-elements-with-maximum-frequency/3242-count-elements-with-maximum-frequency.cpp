@@ -1,27 +1,26 @@
 class Solution {
 public:
     int maxFrequencyElements(vector<int>& nums) {
-        if(nums.size() == 0){
-            return 0;
-        }
-        // frequency array create kro
-        vector<int>freq(256,0);
-        for(int i = 0; i<nums.size(); i++){
-            freq[nums[i]]++;
-        }
-
-        // max frequency count kro
-        int maxFreq = 1;
-        for(int i = 0; i<256; i++){
-            maxFreq = max(maxFreq, freq[i]);
+        if (nums.empty()) return 0;// edge case
+        
+        // frequency array
+        vector<int> freq(101, 0); // nums[i] <= 100 hai constraints me
+        for (int n : nums) {
+            freq[n]++;
         }
 
-        int ans = 0; 
-        for(int i = 0; i<256; i++){
-            if(freq[i]>=maxFreq){
-                ans = ans+ freq[i];
-            }
+        // find max frequency
+        int maxFreq = 0;
+        for (int f : freq) {
+            maxFreq = max(maxFreq, f);
         }
+
+        // count total elements with maxFreq
+        int ans = 0;
+        for (int f : freq) {
+            if (f == maxFreq) ans += f;
+        }
+        
         return ans;
 
     }
