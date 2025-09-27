@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0166-fraction-to-recurring-decimal](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0342-power-of-four) |
+| [0830-largest-triangle-area](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1448-maximum-69-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0777-toeplitz-matrix) |
+| [0830-largest-triangle-area](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
