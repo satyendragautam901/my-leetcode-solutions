@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1179-game-play-analysis-i) |
 | [1452-restaurant-growth](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1480-movie-rating) |
+| [1908-recyclable-and-low-fat-products](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Math
 |  |
 | ------- |
