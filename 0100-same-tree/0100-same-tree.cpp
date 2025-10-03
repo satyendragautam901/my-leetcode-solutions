@@ -12,11 +12,44 @@
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        if(!p && !q) return true;          // dono null → same
-        if(!p || !q) return false;         // ek null, ek non-null → not same
-        if(p->val != q->val) return false; // values different → not same
+        if(!p && !q){
+            return true;
+        }
 
-        // recursively left and right subtree check karo
-        return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
+        if(!p && q || p && !q){
+            return false;
+        }
+        // if root is different then not same
+        if(p->val != q->val){
+            return false;
+        }
+
+        // create pointer type of queue
+        queue<TreeNode*> q1;
+        queue<TreeNode*> q2;
+
+
+        q1.push(p);
+        q2.push(q);
+
+
+        while(!q1.empty() && !q2.empty()){
+            TreeNode* n1 = q1.front(); q1.pop();
+            TreeNode* n2 = q2.front(); q2.pop();
+
+            if(!n1 && !n2) continue;      // dono null → fine
+            if(!n1 || !n2) return false;  // ek null → not same
+            if(n1->val != n2->val) return false;
+
+            q1.push(n1->left);
+            q1.push(n1->right);
+            q2.push(n2->left);
+            q2.push(n2->right);
+
+        }
+
+        return true;
+
+        
     }
 };
