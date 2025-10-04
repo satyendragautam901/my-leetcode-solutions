@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1448-maximum-69-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0059-spiral-matrix-ii](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0165-compare-version-numbers) |
