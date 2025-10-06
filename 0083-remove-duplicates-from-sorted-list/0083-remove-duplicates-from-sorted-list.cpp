@@ -12,34 +12,22 @@ class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
 
-        if(!head){// if null
+        if (!head || !head->next)
             return head;
-        }
-        if(!head->next){// if single node
-            return head;
-        }
-        ListNode *pre = head;
-        ListNode *fut = head->next;
 
-        // if 3 nodes
+        ListNode* pre = head;
+        ListNode* fut = head->next;
 
-
-        while(fut)
-        {   
-            if(pre->val == fut->val){
+        while (fut) {
+            if (pre->val == fut->val) {
                 pre->next = fut->next;
-                
                 delete fut;
-                fut = pre->next;
-            }
-            else{
-                pre = fut;
+                fut = pre->next; //  move fut forward only
+            } else {
+                pre = fut; // move both only when values differ
                 fut = fut->next;
             }
         }
-
-
         return head;
-        
     }
 };
