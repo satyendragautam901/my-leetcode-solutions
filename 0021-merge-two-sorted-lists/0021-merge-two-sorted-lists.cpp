@@ -17,36 +17,63 @@ public:
         if(!list2){
             return list1;
         }
-
-
-        vector<int>ar; // holds val of each list
-        // first insert list1 val
-        while(list1){
-            ar.push_back(list1->val);
-            list1 = list1->next;
-        }
-
-        // insert list2 val
-        while(list2){
-            ar.push_back(list2->val);
-            list2 = list2->next;
-        }
-
-        sort(ar.begin(), ar.end());
-
         ListNode *newhead = nullptr;
         ListNode *curr = nullptr;
-        for(int i = 0; i<ar.size(); i++){
-            ListNode *temp = new ListNode(ar[i]);
-            if(newhead == nullptr){
-                newhead = temp;
-                curr = temp;
+
+        while(list1 && list2){
+            // if both val are equal. 
+            if(list1->val == list2->val){
+                // i take list1->val you can take list2->val as well
+                ListNode *temp = new ListNode(list1->val);
+                list1 = list1->next;
+
+                if(newhead == nullptr){
+                    newhead = temp;
+                    curr = temp;
+                }
+                else{
+                    curr->next = temp;
+                    curr = curr->next;
+                }
+                
             }
-            else{
-                curr->next = temp;
-                curr = curr->next;
+            else if(list1->val < list2->val){ // if list1 vali is smaller then take it
+                ListNode *temp = new ListNode(list1->val);
+                list1 = list1->next;
+
+                if(newhead == nullptr){
+                    newhead = temp;
+                    curr = temp;
+                }
+                else{
+                    curr->next = temp;
+                    curr = curr->next;
+                }
+            }
+            else{ // if list2 val is smaller then take it
+                ListNode *temp = new ListNode(list2->val);
+                list2 = list2->next;
+
+                if(newhead == nullptr){
+                    newhead = temp;
+                    curr = temp;
+                }
+                else{
+                    curr->next = temp;
+                    curr = curr->next;
+                }
             }
         }
+
+        // if list1 have element then point to list1
+        if(list1){
+            curr->next = list1;
+        } 
+        // if list2 have element then point to list2
+        if(list2){
+            curr->next = list2;
+        }
+        
 
         return newhead;
 
