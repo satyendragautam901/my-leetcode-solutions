@@ -2,13 +2,17 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         
-        for (int i = 0; i < nums.size() - 1; i++) {
+        int n = nums.size();
+        unordered_map<int, int>mp;
+        
+        for (int i = 0; i < n; i++) {
             int remain = target - nums[i]; // use a separate variable
-            for (int j = i + 1; j < nums.size(); j++) {
-                if (nums[j] == remain) {
-                    return {i, j};
-                }
+
+            if(mp.count(remain)){// find the remain value is available or not
+                return {i, mp[remain]};
             }
+            mp[nums[i]] = i; // push into map 
+            
         }
 
         return { };
