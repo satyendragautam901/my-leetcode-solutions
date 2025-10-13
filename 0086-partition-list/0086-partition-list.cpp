@@ -19,31 +19,55 @@ public:
             return head;
         }
         
-        ListNode* smallerHead = new ListNode(0); // dummy node for smaller list
-        ListNode* greaterHead = new ListNode(0); // dummy node for greater list
-        
-        ListNode* smaller = smallerHead;
-        ListNode* greater = greaterHead;
-        
-        while(head != nullptr) {
-            if(head->val < x) {
-                smaller->next = head;
-                smaller = smaller->next;
-            } else {
-                greater->next = head;
-                greater = greater->next;
+        /*
+        Algo:
+        step1: create two list one for smaller and one for greater or equal
+        step2: smaller value smaller list, greater value greater list
+        step3: after ending loop, connect smaller->next to greater
+        step4: now return new head
+        */
+        ListNode *sm = nullptr;
+        ListNode *curr1 = nullptr;
+
+        ListNode *gr = nullptr;
+        ListNode *curr2 = nullptr;
+
+        while(head){
+            ListNode *temp = new ListNode(head->val);
+            // check value is smaller or greater
+
+            if(head->val < x){ // belongs to smaller list
+                if(sm == nullptr){
+                    sm = temp;
+                    curr1 = temp;
+                }
+                
+                else{
+                    curr1->next = temp;
+                    curr1 = temp;
+                }
+            }
+            else{ // otherwise greatr or equal hai
+                if(gr == nullptr){
+                    gr = temp;
+                    curr2 = temp;
+                }
+                else{
+                    curr2->next = temp;
+                    curr2 = temp;
+                }
             }
             head = head->next;
         }
-        
-        // Connect smaller list to greater list
-        smaller->next = greaterHead->next;
-        greater->next = nullptr; // Important: end the list
-        
-        ListNode* result = smallerHead->next;
-        delete smallerHead;
-        delete greaterHead;
-        
-        return result;
+
+        // now points smaller ka next to greater, if smaller != null
+
+        if(sm!= nullptr){
+            curr1->next = gr;
+            return sm;
+        }
+        else{
+            return gr;
+        }
     }
 };
