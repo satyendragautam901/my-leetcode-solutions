@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0611-valid-triangle-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0755-reach-a-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0755-reach-a-number) |
 ## Geometry
