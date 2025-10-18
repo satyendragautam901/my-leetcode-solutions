@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1258-article-views-i) |
 | [1452-restaurant-growth](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1480-movie-rating) |
+| [1827-invalid-tweets](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Math
 |  |
