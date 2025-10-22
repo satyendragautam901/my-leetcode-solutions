@@ -11,38 +11,56 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        if(!head)
-            return head;
-
-        if(!head->next)
-            return head;
-
-        ListNode *temp = head;
-        vector<int> ans;
-        while(temp){
-            ans.push_back(temp->val);
-            temp = temp->next;
+        if (!head || !head->next) return head;
+        
+        // Step 1: Split the list into two halves
+        ListNode* mid = getMid(head);
+        ListNode* left = head;
+        ListNode* right = mid->next;
+        mid->next = nullptr; // Break the connection
+        
+        // Step 2: Recursively sort both halves
+        left = sortList(left);
+        right = sortList(right);
+        
+        // Step 3: Merge the sorted halves
+        return merge(left, right);
+    }
+    
+private:
+    // Helper function to find middle node using slow-fast pointer
+    ListNode* getMid(ListNode* head) {
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+        
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
-
-        sort(ans.begin(), ans.end());
-
-        temp = head;
-        ListNode *newhead = nullptr;
-        ListNode *cur = nullptr;
-
-        for(int i = 0; i<ans.size(); i++){
-            ListNode *newnode = new ListNode(ans[i]);
-
-            if(newhead == nullptr){
-                newhead = newnode;
-                cur = newhead;
+        return slow;
+    }
+    
+    // Helper function to merge two sorted lists
+    ListNode* merge(ListNode* l1, ListNode* l2) {
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
+        
+        while (l1 && l2) {
+            if (l1->val <= l2->val) {
+                tail->next = l1;
+                l1 = l1->next;
+            } else {
+                tail->next = l2;
+                l2 = l2->next;
             }
-            else{
-                cur->next = newnode;
-                cur = newnode;
-            }
+            tail = tail->next;
         }
         
-        return newhead;
+        // Attach remaining nodes
+        if (l1) tail->next = l1;
+        if (l2) tail->next = l2;
+        
+        return dummy.next;
     }
+
 };
