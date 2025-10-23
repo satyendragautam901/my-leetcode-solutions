@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1642-water-bottles) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2887-sort-vowels-in-a-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3336-water-bottles-ii](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -248,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0148-sort-list) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
