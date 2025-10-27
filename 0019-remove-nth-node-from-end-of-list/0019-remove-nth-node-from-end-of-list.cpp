@@ -12,27 +12,28 @@ class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         // edge case
-        if(!head->next && n == 1){
+        if (!head->next && n == 1) {
             return nullptr;
         }
-        ListNode *temp = head;
-        int cnt= 0;
-        while(temp){
+        ListNode* temp = head;
+        int cnt = 0;
+        while (temp) {
             cnt++;
             temp = temp->next;
         }
-        int To_rem = cnt -n;
-        if(To_rem == 0){
-            return head->next;
+        int To_rem = cnt - n;
+        if (To_rem == 0) {
+            ListNode* newhead = head->next;
+            delete head;
+            return newhead;
         }
         temp = head;
-        for(int i = 1; i< To_rem; i++){
+        for (int i = 1; i < To_rem; i++) {
             temp = temp->next;
         }
-        ListNode *curr = temp->next->next;
-        temp->next = nullptr;
-
-        temp->next = curr;
+        ListNode* nodeToDelete = temp->next;
+        temp->next = temp->next->next;
+        delete nodeToDelete; // Important to free memory
 
         return head;
     }
