@@ -1,12 +1,15 @@
 class Solution {
 public:
-    int smallestNumber(int n) {
-        int ans = 1;
 
-        while(ans < n){
-            ans = ans * 2 + 1;
+    bool isAllSet(int x){
+        return (x & (x+1)) == 0;
+    }
+    int smallestNumber(int n) {
+        
+        while(!isAllSet(n)){
+            n++;
         }
 
-        return ans;
+        return n;
     }
 };
