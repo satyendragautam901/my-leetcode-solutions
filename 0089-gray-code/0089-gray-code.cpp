@@ -2,14 +2,9 @@ class Solution {
 public:
     vector<int> grayCode(int n) {
         vector<int> result;
-        result.push_back(0);
-
-        for (int i = 0; i < n; i++) {
-            int add = 1 << i;
-            // reflect current sequence
-            for (int j = result.size() - 1; j >= 0; j--) {
-                result.push_back(result[j] + add);
-            }
+        int total = 1 << n; // 2^n numbers
+        for (int i = 0; i < total; i++) {
+            result.push_back(i ^ (i >> 1));
         }
         return result;
     }
