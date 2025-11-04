@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
