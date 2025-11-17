@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
