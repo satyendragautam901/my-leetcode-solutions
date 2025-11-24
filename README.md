@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0622-design-circular-queue](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0777-toeplitz-matrix) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0838-design-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0838-design-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0838-design-linked-list) |
 ## Binary Search
 |  |
@@ -308,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
