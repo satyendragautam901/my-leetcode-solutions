@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1729-find-followers-count](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1729-find-followers-count) |
 | [1801-average-time-of-process-per-machine](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
