@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -356,5 +357,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
