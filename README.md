@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0755-reach-a-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0755-reach-a-number) |
@@ -359,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
