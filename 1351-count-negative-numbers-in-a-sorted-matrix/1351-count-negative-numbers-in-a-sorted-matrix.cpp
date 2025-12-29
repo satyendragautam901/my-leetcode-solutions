@@ -4,15 +4,18 @@ public:
         
         int row = grid.size();
         int col = grid[0].size();
-        int negative = 0;
+        
+        int i = 0, j = col - 1;
+        int count = 0;
 
-        for(int i = 0; i<row; i++){
-            for(int j= 0; j<col; j++){
-                if(grid[i][j] < 0){
-                    negative++;
-                }
+        while (i < row && j >= 0) {
+            if (grid[i][j] < 0) {
+                count += (row - i);  // all below are negative
+                j--;                // move left
+            } else {
+                i++;                // move down
             }
         }
-        return negative;
+        return count;
     }
 };
