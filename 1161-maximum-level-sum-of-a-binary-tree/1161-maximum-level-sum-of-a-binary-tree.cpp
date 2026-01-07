@@ -12,6 +12,7 @@
  */
 class Solution {
 public:
+    // using bfs
     int maxLevelSum(TreeNode* root) {
         // create a queue to store address of child
         queue<TreeNode*> q;
@@ -24,7 +25,7 @@ public:
             int qu_size = q.size();
             int temp_sum = 0;
 
-            // traversing alll the elements of same level
+            // traversing all the elements of same level
             while (qu_size--) {
 
                 TreeNode* temp = q.front();
