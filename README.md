@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0498-diagonal-traverse](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0367-valid-perfect-square) |
