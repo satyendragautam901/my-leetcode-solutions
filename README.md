@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3637-trionic-array-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3637-trionic-array-i) |
 ## Matrix
 |  |
 | ------- |
