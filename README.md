@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1204-last-person-to-fit-in-the-bus](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1258-article-views-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1258-article-views-i) |
+| [1321-restaurant-growth](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1341-movie-rating) |
 | [1390-average-selling-price](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1415-students-and-examinations) |
