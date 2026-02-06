@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3634-minimum-removals-to-balance-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Array
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3637-trionic-array-i) |
 ## Matrix
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3634-minimum-removals-to-balance-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Linked List
 |  |
 | ------- |
