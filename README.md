@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0755-reach-a-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0755-reach-a-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
