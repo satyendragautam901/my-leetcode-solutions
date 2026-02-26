@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1390-four-divisors](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0838-design-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Breadth-First Search
 |  |
