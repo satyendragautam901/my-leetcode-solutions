@@ -5,7 +5,7 @@ public:
         while(n){
             // by doing add with 1 this will give you number of 1 in that number.
 
-            cnt = cnt + n & 1;
+            cnt += (n & 1);
             n >>= 1; // when we do shift then number will by divide by 2 or bits shift by 1.
         }
 
@@ -14,13 +14,13 @@ public:
 
     vector<int> sortByBits(vector<int>& arr) {
         auto lambda = [&] (int &a, int &b){ // lambda function
-            int No_A = __builtin_popcount(a);
-            int No_B = __builtin_popcount(b);
+            int No_A = count(a);
+            int No_B = count(b);
 
-            if(No_A == No_B)// if both have same no then return greater one
-                return a<b;
+            if(No_A == No_B)
+                return a < b; // Sort by actual value if bits are equal
 
-            return No_A < No_B;
+            return No_A < No_B; // Sort by number of set bits
         };
         sort(arr.begin(), arr.end(), lambda); // sort kro lambda ke behalf pe
 
