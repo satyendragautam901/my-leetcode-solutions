@@ -1,30 +1,30 @@
 class Solution {
 public:
     int maximumSwap(int num) {
-        string str = to_string(num); // convert to string so that easy to solve
+        string str = to_string(num);
         int n = str.size();
-        // create an array that store right max element
-        vector<int>rightMax(n);
+
+        vector<int> rightMax(n); // create a vector that store max right element
         rightMax[n-1] = n-1;
 
-        for(int i = n-2; i>=0; i--){
-            int tempIdx = rightMax[i+1]; // store right max
-            int rightMaxTemp = str[tempIdx]; // store value
+        for(int i = n-2; i >= 0; i--){ // starts from second last
+            int tempIdx = rightMax[i+1];// store the i+1 index assuming that one is greater
 
-            rightMax[i] = (str[i] > rightMaxTemp ? i : tempIdx);
-
+            if(str[i] > str[tempIdx]) // check if greater current then 
+                rightMax[i] = i;
+            else
+                rightMax[i] = tempIdx;
         }
-        // 9917
-        for(int i = 0; i<n; i++){
-            int maxRightIdx = rightMax[i];
-            int maxRightEle = str[maxRightIdx];
 
-            if(str[i] < maxRightEle){
+        for(int i = 0; i < n; i++){
+            int maxRightIdx = rightMax[i]; // find right greater
+
+            if(str[i] < str[maxRightIdx]){ // if current is smaller then swap
                 swap(str[i], str[maxRightIdx]);
                 return stoi(str);
             }
         }
-        return num;
 
+        return num;
     }
 };
