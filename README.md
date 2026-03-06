@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
