@@ -2,7 +2,7 @@ class Solution {
 public:
     int minOperations(string s) {
         int n = s.size();
-        if((n==2) && (s[0] == s[1]))
+        if((n==2) && (s[0] == s[1])) // edge cases for efficient use
             return 1;
         if(n==1)
             return 0;
