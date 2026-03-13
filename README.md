@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0342-power-of-four](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0670-maximum-swap](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0755-reach-a-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0755-reach-a-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0868-binary-gap) |
