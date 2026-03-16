@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0162-find-peak-element) |
