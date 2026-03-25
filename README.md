@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Stack
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Interactive
 |  |
