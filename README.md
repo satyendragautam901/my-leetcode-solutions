@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Simulation
 |  |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0367-valid-perfect-square) |
