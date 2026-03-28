@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0148-sort-list) |
