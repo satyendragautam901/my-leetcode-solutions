@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0840-magic-squares-in-grid](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Prefix Sum
 |  |
