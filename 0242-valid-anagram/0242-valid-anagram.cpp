@@ -4,7 +4,7 @@ public:
         if (s.size() != t.size()) {
             return false;
         }
-
+////
         vector<int> freq1(26, 0);
         vector<int> freq2(26, 0);
 
