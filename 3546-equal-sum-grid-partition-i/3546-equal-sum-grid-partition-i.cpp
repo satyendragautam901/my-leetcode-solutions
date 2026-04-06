@@ -3,7 +3,7 @@ public:
     bool canPartitionGrid(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        
+   ////     
         long long total = 0;
         for (auto &row : grid) {
             for (int val : row) {
