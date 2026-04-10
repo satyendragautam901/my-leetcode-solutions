@@ -11,7 +11,7 @@ public:
             // Compare lowercase versions
             if (tolower(s[left]) != tolower(s[right]))
                 return false;
-
+////
             left++;
             right--;
         }
