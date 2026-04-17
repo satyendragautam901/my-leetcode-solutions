@@ -8,6 +8,6 @@ public:
             }
         }
 
-        return (ans == INT_MAX) ? -1 : ans;
+        return (ans == INT_MAX) ? -1 : ans;// if ans is large then it would be -1;
     }
 };
