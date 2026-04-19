@@ -13,7 +13,7 @@ public:
             }
             else{
                 i++;
-                if (i > j) j = i;
+                if (i > j) j = i; // this will check if any pair left or not
             }
         }
         return ans;
