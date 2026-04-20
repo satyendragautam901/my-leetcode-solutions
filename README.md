@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1448-maximum-69-number) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Hash Table
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
