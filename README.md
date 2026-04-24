@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2833-furthest-point-from-origin](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
