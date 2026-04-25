@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0868-binary-gap) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0840-magic-squares-in-grid](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0696-count-binary-substrings](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
