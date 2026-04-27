@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0338-counting-bits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0338-counting-bits) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
