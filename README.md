@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0755-reach-a-number](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0755-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/satyendragautam901/my-leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
