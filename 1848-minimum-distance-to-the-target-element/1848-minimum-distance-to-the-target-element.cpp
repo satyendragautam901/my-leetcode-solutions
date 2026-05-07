@@ -7,7 +7,7 @@ public:
                 ans = min(ans, abs(i-start));
             }
         }
-
+//
         return (ans == INT_MAX) ? -1 : ans;// if ans is large then it would be -1;
     }
 };
